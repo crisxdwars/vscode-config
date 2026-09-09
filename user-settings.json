@@ -2,9 +2,11 @@
     "explorer.confirmDelete": false,
     "chat.disableAIFeatures": true,
     "window.titleBarStyle": "native",
-    "window.menuBarVisibility": "compact",
+    "window.menuBarVisibility": "classic",
     "window.menuStyle": "custom",
     "workbench.layoutControl.enabled": false,
-    "workbench.editor.tabCloseButton": "off"
+    "workbench.editor.tabCloseButton": "off",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "smooth",
+    "workbench.editor.tabActionCloseVisibility": false
 }
-
